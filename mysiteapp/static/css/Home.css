@@ -1,0 +1,108 @@
+ .u-section-1 {
+  background-image: url("images/KakaoTalk_20220504_230244099_01.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 794px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 494px;
+  min-height: 136px;
+  background-image: none;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.2);
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  height: auto;
+  margin: 27px 0 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  letter-spacing: normal;
+  font-family: Montserrat, sans-serif;
+  font-weight: 700;
+  font-size: 3rem;
+  margin: 47px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 726px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 246px;
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 493px;
+    min-height: 399px;
+    margin-top: 284px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    background-position: 69.69% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 639px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 384px;
+    min-height: 400px;
+    margin-top: 189px;
+    margin-bottom: 50px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 84.13% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 724px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 412px;
+    margin-top: 265px;
+    margin-bottom: 47px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+}
